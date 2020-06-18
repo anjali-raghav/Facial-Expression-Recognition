@@ -3,15 +3,17 @@
 In this project facial expression of the person was detected. Fer 2013 dataset was used, which consist of images of six basic emotional expressions including fear, disgust, anger, surprise, happiness,and sadness.
 
 About the dataset
-Fer2013 is an open-source dataset which is first, created for an ongoing project by Pierre-Luc Carrier and Aaron Courville, then shared publicly for a Kaggle competition, shortly before ICML 2013. This dataset consists of 35.887 grayscale, 48x48 sized face images with various emotions -7 emotions, all labeled-.
+Fer2013 is an open-source dataset which is first, created for an ongoing project by Pierre-Luc Carrier and Aaron Courville, then shared publicly for a Kaggle competition, shortly before ICML 2013. This dataset consists of 35.887 grayscale, 48x48 sized face images with various emotions -7 emotions, all labelled.
+
+
 Emotion labels in the dataset:
-0: -4593 images- Angry
-1: -547 images- Disgust
-2: -5121 images- Fear
-3: -8989 images- Happy
-4: -6077 images- Sad
-5: -4002 images- Surprise
-6: -6198 images- Neutral
+      0: -4593 images- Angry
+      1: -547 images- Disgust
+      2: -5121 images- Fear
+      3: -8989 images- Happy
+      4: -6077 images- Sad
+      5: -4002 images- Surprise
+      6: -6198 images- Neutral
 
 
 Results
