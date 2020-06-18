@@ -35,5 +35,5 @@ Confusion Matrix
        Happy  0.68      0.69    0.69 
         Sad   0.44      0.38    0.41 
      Surprise 0.69      0.65    0.67 
-Neutral 0.45 0.49 0.47 
-Average  0.57 0.57 0.57 
+      Neutral 0.45      0.49    0.47 
+     Average  0.57      0.57    0.57 
